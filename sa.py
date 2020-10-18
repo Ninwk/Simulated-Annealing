@@ -123,5 +123,4 @@ class sa(object):
     def r_sol(self):
         return self.best_solution, self.places
 
-# print(dka)
-# visualize_tsp.plotTSP([ok], sa().places)
+
